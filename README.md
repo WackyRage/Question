@@ -16,3 +16,37 @@ De langste pad van de volgende node tree moet worden berekend:
 
 De opdracht mag worden gemaakt in: Java, C#, Javascript
 Maak met 1 van deze talen de algeritme. Er mag worden afgeweken van de bestaande functies.
+
+class Main
+{
+ 
+	class Node
+	{
+	    
+	}
+	 
+	class A
+	{
+
+	}
+	 
+	static int height()
+	{
+	    
+	}
+	 
+	static int diameter()
+	{
+	   
+	}
+	 
+	static Node newNode()
+	{
+	   
+	}
+	 
+	public static void Main()
+	{
+	    
+	}
+}
