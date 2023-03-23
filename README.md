@@ -4,11 +4,11 @@ Maak een algeritme dat de langste pad in een node tree kan berekenen.
 
 De langste pad van de volgende node tree moet worden berekend:
    
-       O
-      / \
-     O   O
-    / \   \
-   O   O   O
+        O
+       / \
+      O   O
+     / \   \
+    O   O   O
           /  \
          O    O
                \
