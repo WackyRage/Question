@@ -14,6 +14,5 @@ De langste pad van de volgende node tree moet worden berekend:
                \
                 O
 
-In de Github zijn drie bestanden ieder met zijn eigen programeertaal.
-Java, C#, Javascript
+De opdracht mag worden gemaakt in: Java, C#, Javascript
 Maak met 1 van deze talen de algeritme. Er mag worden afgeweken van de bestaande functies.
