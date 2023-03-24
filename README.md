@@ -14,8 +14,7 @@ De langste pad van de volgende node tree moet worden berekend:
                \
                 O
 
-De opdracht mag worden gemaakt in: Java, C#, Javascript
-Maak met 1 van deze talen de algeritme. Er mag worden afgeweken van de bestaande functies.
+De opdracht mag worden gemaakt in Java of C#. Maak met 1 van deze talen de algeritme. Er mag worden afgeweken van de bestaande functies.
 
 Java versie:
 class Main {
